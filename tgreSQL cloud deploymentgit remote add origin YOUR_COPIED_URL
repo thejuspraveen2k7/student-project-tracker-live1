@@ -1,0 +1,12 @@
+ .gitignore        |   6 [32m+[m
+ database.js       |   9 [32m+[m
+ live-local.js     |   2 [32m+[m
+ package-lock.json | 905 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ package.json      |  16 [32m+[m
+ project-api.js    |   5 [32m+[m
+ public/index.html |  35 [32m+++[m
+ public/script.js  |  90 [32m++++++[m
+ public/style.css  |  25 [32m++[m
+ schema.sql        |   7 [32m+[m
+ server.js         |  19 [32m++[m
+ 11 files changed, 1119 insertions(+)
